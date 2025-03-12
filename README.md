@@ -27,7 +27,7 @@ air-quality-analysis/
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/air-quality-analysis.git
+   git clone https://github.com/Andreia797/air-quality-analysis.git
    cd air-quality-analysis
    ```
 
